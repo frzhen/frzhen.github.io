@@ -1,5 +1,5 @@
 /*
- * sphinx_javascript_frameworks_compat.js
+ * _sphinx_javascript_frameworks_compat.js
  * ~~~~~~~~~~
  *
  * Compatability shim for jQuery and underscores.js.
